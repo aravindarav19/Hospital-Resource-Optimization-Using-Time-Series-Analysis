@@ -47,7 +47,7 @@ This project focuses on forecasting hospital bed occupancy to optimize resource 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/hospital-resource-optimization.git
+   git clone https://github.com/aravindarav19/Hospital-Resource-Optimization-Using-Time-Series-Analysis.git
    ```
 2. Install dependencies:
    ```bash
